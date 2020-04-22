@@ -1,0 +1,32 @@
+.box1{
+    width: 300px;
+    border: 2px solid lightgray;
+    box-shadow: 5px 10px #cccccc;
+    padding: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.box2{
+    width: 300px;
+    height: 200px;
+}
+.box3{
+    border: 2px solid lightgray;
+    padding-top: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.justy{
+    text-align: justify;
+    text-justify: inter-word;
+}
+.p-italic{
+    font-style: italic;
+}
