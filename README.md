@@ -2,7 +2,7 @@
 This is a simple project for practicing HTML and CSS techniques.
 
 ------------------------------------------------------
-## How to use the blank files:
+How to use the blank files:
 ------------------------------------------------------
 
 * In This project, I tried to mimic the features that is shown in design-prototype.png file.
